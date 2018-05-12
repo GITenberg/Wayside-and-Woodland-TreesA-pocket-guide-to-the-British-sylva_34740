@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37197'
     url: http://www.gutenberg.org/2009/agents/37197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34740#Wayside-and-Woodland-TreesA-pocket-guide-to-the-British-sylva
 gutenberg_bookshelf: Forestry
 gutenberg_issued: '2010-12-23'
 gutenberg_type: Text
