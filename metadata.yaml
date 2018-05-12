@@ -1,0 +1,28 @@
+_repo: Wayside-and-Woodland-TreesA-pocket-guide-to-the-British-sylva_34740
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34740-h/images/i_cover_tn.jpg
+creator:
+  author:
+    agent_name: Step, Edward
+    birthdate: 1855
+    deathdate: 1931
+    gutenberg_agent_id: '37197'
+    url: http://www.gutenberg.org/2009/agents/37197
+description: ''
+gutenberg_bookshelf: Forestry
+gutenberg_issued: '2010-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees -- Great Britain'
+- !lcsh 'Shrubs -- Great Britain'
+- !lcc 'QK'
+title: 'Wayside and Woodland Trees: A pocket guide to the British sylva'
+url: http://www.gutenberg.org/ebooks/34740
